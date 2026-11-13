@@ -42,7 +42,7 @@ This project focuses on transforming raw examination data into meaningful insigh
 
 ### Class & Subject Performance
 
-![Class & Subject Performance](class wise .png)
+![Class & Subject Performance](class.png)
 
 ### Student Leaderboard
 
